@@ -39,7 +39,8 @@ I'm developing a project private 🚀, I am making a  site 📃.
 
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] [js]
 
-[<img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />] [css]
+[<img align="left" alt="Css" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />] [css]
 
 <br />
 
