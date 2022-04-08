@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀
 - 🔭 I’m currently working on a large and special application.
