@@ -1,8 +1,5 @@
 <h1 align="center">Crescent</h1>
 
-<div align="center">
-    <a href="https://discord.com/users/329958935647879168" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/329958935647879168"></a>
-</div>
 
 
 
