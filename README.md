@@ -5,11 +5,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓, Full Stack Developer 🚀
+## I'm a Student 👨‍🎓, Developer & Programmer 🚀
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other C++ developer 👩‍💻 and Websitedesigners 🎨
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play voleyball 🏐 and cycling 🚴‍♀️
+- 👯 I’m looking to collaborate with other C++ developer 👩‍💻 and Designers 🎨
+- ⚡ Fun fact: I love to swim 🏊‍♀️, make a design ♟, play voleyball 🏐 and cycling 🚴‍♀️
 
 
 ## ⏲ What we are doing now:
