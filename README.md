@@ -3,7 +3,6 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/329958935647879168)](https://discord.com/users/329958935647879168)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Developer & Programmer 🚀
 - 🔭 I’m currently working on a large and special application.
