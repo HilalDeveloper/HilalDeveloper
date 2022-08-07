@@ -1,7 +1,6 @@
 <h1 align="center">Crescent</h1>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/329958935647879168)](https://discord.com/users/329958935647879168)
 
 
 ## I'm a Student 👨‍🎓, Developer & Programmer 🚀
