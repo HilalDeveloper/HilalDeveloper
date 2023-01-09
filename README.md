@@ -3,18 +3,13 @@
 
 
 
-<p style="font-size:70px">Hello, I'm HilalWare 👋</p>
+<p style="font-size:150px">Hello, I'm HilalWare 👋</p>
 
 
 
 [instagram]: https://www.instagram.com/HilalDownD
 [gmail]: mailto:hilallinux@gmail.com
 
-
-
-
-
-<br />
 
 
 ### 🔧 Languages
