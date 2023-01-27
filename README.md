@@ -39,5 +39,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=HilalWare&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HilalWare&theme=tokyonight)
+![Views](https://komarev.com/ghpvc/?username=hilalware)
 
 
