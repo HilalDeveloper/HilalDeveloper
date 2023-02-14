@@ -58,7 +58,7 @@
   <div align=center>
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HilalWare&theme=react&border=61dafb&hide_border=true" alt="HilalWare" />
 
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hilalware&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+
 
   </div>
   <br><br><br><br><br><br><br><br><br>
