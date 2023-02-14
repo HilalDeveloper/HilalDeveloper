@@ -32,9 +32,7 @@
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
 
 </p>
