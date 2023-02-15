@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=hilalware">
+<img align="right" src="https://komarev.com/ghpvc/?username=HilalWare">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
