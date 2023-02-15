@@ -44,7 +44,7 @@
   <div align=center>
         <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=HilalWare&amp;theme=react&amp;border=61dafb&amp;hide_border=true" alt="HilalWare">
 
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=hilalware&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true">
+<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=HilalWare&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true">
 
 
   </div>
@@ -67,8 +67,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/HilalWare/arduino-buzzer" title="arduino-buzzer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hilalware&repo=arduino-buzzer&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/HilalWare/HC-06-BT-Module" title="HC-06-BT-Module"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hilalware&repo=HC-06-BT-Module&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/HilalWare/arduino-buzzer" title="arduino-buzzer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HilalWare&repo=arduino-buzzer&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/HilalWare/HC-06-BT-Module" title="HC-06-BT-Module"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=HilalWare&repo=HC-06-BT-Module&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
