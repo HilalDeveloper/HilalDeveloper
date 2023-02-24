@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm HilalWare, Lives in Turkey.
+  Hi, I'm HilalWare, I'm Living a Turkey.<br>
   I'm Interested in Electrical-Electronics and Software
   <br>
 </p>
