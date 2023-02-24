@@ -13,6 +13,7 @@
 <br>
 <p align="center">
   Hi, I'm HilalWare, Lives in Turkey.
+  I'm Interested in Electrical-Electronics and Software
   <br>
 </p>
 
